@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[User Validation](/sample_page)
+[User Validation](https://my-basic-react-learning-app.herokuapp.com)
 <img src="images/usevalidation.png?raw=true"/>
 
 ---
